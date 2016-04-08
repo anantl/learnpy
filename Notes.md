@@ -1,0 +1,8 @@
+# 08.04.2016 @ 0316
+
+- When we need to make a certain line end with a character other than new line '\n' then use ",end("character")" after the print command
+- To print a string as it is we can prefix an r to the string to show that it is a raw string
+- For python every single physical line is a logical line unless you put a ';' at the end of a line which would mean that you can have multiple logical lines on a single physical line.
+- '//' is used to divde and round the number down
+
+
