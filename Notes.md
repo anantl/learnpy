@@ -6,3 +6,4 @@
 - '//' is used to divde and round the number down
 - In Python we can have an 'else' clause for a while statement
 - We should always add a ':' at the end of every control statement
+- There is no limit for the size of ints in Python
