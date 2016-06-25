@@ -7,3 +7,4 @@
 - In Python we can have an 'else' clause for a while statement
 - We should always add a ':' at the end of every control statement
 - There is no limit for the size of ints in Python
+- When the curly brances are used in the print statement then it is necessary to use the format function to get the output properly

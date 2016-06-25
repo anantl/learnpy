@@ -1,0 +1,14 @@
+def max_calc(a, b):
+	if (a > b):
+		print("A is greater")
+	elif (b > a):
+		print("B is greater")
+	else:
+		print("Both the values are equal")
+
+max_calc(10,100)
+x = 10
+y = 11
+print("The values passed are {} and {}".format(x, y))
+
+max_calc(x,y)
