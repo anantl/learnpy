@@ -14,3 +14,5 @@
 - We can use the ':' operator within the index of any sequence to fetch a sub-sequence from within. Sequences include: lists, strings, tuples etc. When specifying values before and after the ':' operator, the index from *before* to *after*-1 is fetched. A third argument can be given like so `a[x:y:z]` in which we will fetch items from x to y-1 with an increment of z between the indices.
 - If we want to make a copy of a sequence then we need to assign a full slice of the sequence to another sequence. Using the '=' creates a reference to a sequence which is mutually bound.
 - Using the 'os.sep' operator from the os module will enable us to use a seperator that is uniform throughout all operating systems
+- In python a constructor is defined using the '__init__' function that is usually implicitly defined
+- If we prefix a variable with a double underscore then the variable becomes a private variable
