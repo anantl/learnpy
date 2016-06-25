@@ -28,10 +28,12 @@ class Robot:
 
 		
 
-r2d2 = Robot("R2D2")
-c3po = Robot("C3PO")
+droid1 = Robot("R2D2")
+droid2 = Robot("C3PO")
 Robot.how_many()
 
-r2d2.die()
-c3po.die()
+print("\nThese are not the droids you're looking for\n")
+
+droid1.die()
+droid2.die()
 Robot.how_many()
