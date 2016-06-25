@@ -10,3 +10,6 @@
 - When the curly brances are used in the print statement then it is necessary to use the format function to get the output properly
 - The global keyword can be used during a variable definition so that its value in the outermost block is used within the function also
 - When passing default values to parameters in a function, we cannot have a parameter without a default value after a paramter with a default value in the function declaration statement
+- The 'dir()' function can be used to list out all the variables and functions that are available for use from a certain module that has been imported
+- We can use the ':' operator within the index of any sequence to fetch a sub-sequence from within. Sequences include: lists, strings, tuples etc. When specifying values before and after the ':' operator, the index from *before* to *after*-1 is fetched. A third argument can be given like so `a[x:y:z]` in which we will fetch items from x to y-1 with an increment of z between the indices.
+- If we want to make a copy of a sequence then we need to assign a full slice of the sequence to another sequence. Using the '=' creates a reference to a sequence which is mutually bound.
