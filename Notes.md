@@ -8,3 +8,5 @@
 - We should always add a ':' at the end of every control statement
 - There is no limit for the size of ints in Python
 - When the curly brances are used in the print statement then it is necessary to use the format function to get the output properly
+- The global keyword can be used during a variable definition so that its value in the outermost block is used within the function also
+- When passing default values to parameters in a function, we cannot have a parameter without a default value after a paramter with a default value in the function declaration statement
