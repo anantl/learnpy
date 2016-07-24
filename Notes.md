@@ -16,3 +16,5 @@
 - Using the 'os.sep' operator from the os module will enable us to use a seperator that is uniform throughout all operating systems
 - In python a constructor is defined using the '__init__' function that is usually implicitly defined
 - If we prefix a variable with a double underscore then the variable becomes a private variable
+- In Python whenever we define a class method the first argument is *self*, this could also be *class*. This kind of argument definition is not required if it is a static method.
+- 
